@@ -16,7 +16,7 @@ Welcome to the project on apple classification, where you will classify between 
 
 Infrared spectra data for three apple cultivars, namely ’Golden Delicious’ (GD) (yellowish green), ’Granny Smith’ (GS) (green) and ’Royal Gala’ (RG) (predominantly red), were acquired in two installments (in two consecutive months) from two different local retail shops from Stellenbosch, Western Cape, South Africa, in 2019.
 
-From the three apple cultivars, two main sample categories were created, namely bruised (B) and non-bruised (S) fruit. From the B category,   three subcategories were created by representing the different levels of bruise severity (L1, L2, and L3), thus contributing to more variability in the data set.
+From the three apple cultivars, two main sample categories were created, namely bruised (B) and non-bruised (S) fruit. From the B category,   three subcategories were created by representing the different levels of bruise severity, thus contributing to more variability in the data set.
 
 ## Hackathon Task
 
