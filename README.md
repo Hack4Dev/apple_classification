@@ -7,10 +7,10 @@
 
 Welcome to the project on apple classification, where you will classify between bruised on sound apples! From the tutorials you will learn the following:
 
-*Tutorial 1* - Data cleaning & visualization
-*Tutorial 2* - Baseline Calculation
-*Tutorial 3* - Feature Engineering and Selection
-*Tutorial 4* - Machine learning classification.
+- *Tutorial 1* - Data cleaning & visualization
+- *Tutorial 2* - Baseline Calculation
+- *Tutorial 3* - Feature Engineering and Selection
+- *Tutorial 4* - Machine learning classification.
 
 ## Data
 
