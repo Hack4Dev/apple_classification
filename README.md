@@ -67,3 +67,7 @@ git pull
 ```
 
 -----
+
+### Original research work:
+Nturambirwe, J.F.I.; Hussein, E.A.; Vaccari, M.; Thron, C.; Perold, W.J.; Opara, U.L. Feature Reduction for the Classification of Bruise Damage to Apple Fruit Using a Contactless FT-NIR Spectroscopy with Machine Learning. Foods 2023, 12, 210. [https://doi.org/10.3390/foods12010210](https://www.mdpi.com/2304-8158/12/1/210)
+
